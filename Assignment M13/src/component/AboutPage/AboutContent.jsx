@@ -5,7 +5,7 @@ function AboutContent() {
     <section className="about-content">
       <h2>Our Story</h2>
       <p>
-        Hello there nice know that your assessing my assignment.
+        Hello there nice know that you are assessing my assignment.
       </p>
       {/* Add more content about your company */}
     </section>
